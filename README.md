@@ -14,12 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-GYMRAT🏋🏽 | Cyber Enthusiast🌐 |
--🔭 I’m currently working on DIT MUN Website
--🌱 I’m currently learning Machine Leaarning
--👯 I’m looking to collaborate on DIT MUN WEBSITE
--💬 Ask me about Cyber Security
+
+![Header](./github-header-image.png)
+
+
+## 💫 About Me:
+
+# GYMRAT🏋🏽 | Cyber Enthusiast🌐 
+
+- 🔭 I’m currently working on DIT MUN Website
+- 🌱 I’m currently learning Machine Leaarning
+- 👯 I’m looking to collaborate on DIT MUN WEBSITE
+- 💬 Ask me about Cyber Security
 - 📫 How to reach me: arhamoberoi110@gmail.com
 
 ## 🌐 Socials:

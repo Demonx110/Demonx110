@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Demonx110/Demonx110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 ![Header](./github-header-image.png)
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E3%82%A2%E3%83%BC%E3%83%8F%E3%83%A0%E3%83%BB%E3%82%AA%E3%83%99%E3%83%AD%E3%82%A4%E3%81%A7%E3%81%99)](https://git.io/typing-svg)
+
 ## 💫 About Me:
 
-# GYMRAT🏋🏽 | Cyber Enthusiast🌐 
+# GYMRAT🏋🏽 | Cyber Enthusiast🌐| Weeb ⛩️ 
 
 - 🔭 I’m currently working on DIT MUN Website
 - 🌱 I’m currently learning Machine Leaarning
